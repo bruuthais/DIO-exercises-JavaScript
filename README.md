@@ -1,5 +1,5 @@
 # Javascript
-Excercicios feitos em JS
+Excercicios feitos em JS:
 
 
 - Dio Snake = Jogo da cobrinha :)
